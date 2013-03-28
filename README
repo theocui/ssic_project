@@ -1,1 +1,7 @@
-My project
+Projet du réseau:
+
+Le projet est realisé par 2 personnes : CUI Zhikang et GACI Idir
+
+En faite, on a realisé un programme qui peut envoie des paquets de ARP sous linux, on a nommé par send_arp.c et encore un programme qui fait les analyses des paquets de ARP, on a nommé par SnifferArp.c.
+
+En tous cas, il faut utiliser libpcap qui permet de analyser les données des paquets.
