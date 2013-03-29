@@ -2,13 +2,15 @@ Projet du réseau:
 
 Le projet est realisé par 2 personnes : CUI Zhikang et GACI Idir
 
-En faite, on a realisé un programme qui peut envoie des paquets de ARP sous linux, on a nommé par SendARP.c 
-et encore un programme qui fait les analyses des paquets de ARP, on a nommé par SnifferArp.c.
+En faite, on a realisé un programme qui peut envoie des paquets de ARP sous linux, on a nommé 
+par SendARP.c et encore un programme qui fait les analyses des paquets de ARP, on a nommé par 
+SnifferArp.c.
 
 En tous cas, il faut utiliser libpcap qui permet de analyser les données des paquets.
 
-Comme on a fait. on a bien compris le mécanisme de ARP et comme défendre les attaques ARP. Au début, on veut realiser les 
-détections des attaques ARP, mais à couse des travails du stage, on a pas beaucoup de temps de les finir.
+Comme on a fait, on a bien compris le mécanisme de ARP et comme défendre les attaques ARP. Au 
+début, on veut realiser les détections des attaques ARP, mais à couse des travails du stage, 
+on a pas beaucoup de temps de les finir.
 
 Merci de votre compréhension
 
